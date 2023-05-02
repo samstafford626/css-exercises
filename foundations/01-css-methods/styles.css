@@ -1,0 +1,11 @@
+/* stylesheet */
+
+div {
+    color: white;
+    background-color: red;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 5px 0 5px 0;
+    font-size: xx-large;
+    font-weight: bold;
+}
